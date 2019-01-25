@@ -1,9 +1,8 @@
-#!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3
 
 import cards_tools
 
 #永远为真,不停的循环执行代码
-while True:c
+while True:
 	#显示功能菜单
 	cards_tools.show_menu()
 
