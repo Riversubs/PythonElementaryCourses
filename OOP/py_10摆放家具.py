@@ -48,7 +48,7 @@ class House:
 
 #1.创建家具
 bed = HouseItem("席梦思",40)
-chest = HouseItem("衣柜",2)
+chest = HouseItem("衣柜",20)
 table = HouseItem("餐桌",20)
 
 print(bed)

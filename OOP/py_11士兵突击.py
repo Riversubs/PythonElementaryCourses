@@ -64,5 +64,6 @@ xusanduo = Soldier("许三多")
 xusanduo.gun = ak47
 
 xusanduo.fire()
+xusanduo.fire()
 
 print(xusanduo.gun)
