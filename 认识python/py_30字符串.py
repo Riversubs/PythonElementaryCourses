@@ -61,9 +61,3 @@ print(num_str[1::2])
 print(num_str[2:-1])
 print(num_str[-2:])
 print(num_str[-1::-1])
-
-
-
-
-
-
